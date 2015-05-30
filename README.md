@@ -3,7 +3,7 @@ Build Rancher server for Octohost
 
 clone this repo then
 ```
-git remote add octo git@octodev.io
+git remote add octo git@octodev.io:octorancherserver.git
 git push octo master
 ```
 
